@@ -1,0 +1,12 @@
+/home/pablitohaddad/reps/c#/ClassLibraryProjects/StringLibrary/bin/Release/net8.0/StringLibrary.deps.json
+/home/pablitohaddad/reps/c#/ClassLibraryProjects/StringLibrary/bin/Release/net8.0/StringLibrary.dll
+/home/pablitohaddad/reps/c#/ClassLibraryProjects/StringLibrary/bin/Release/net8.0/StringLibrary.pdb
+/home/pablitohaddad/reps/c#/ClassLibraryProjects/StringLibrary/obj/Release/net8.0/StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/pablitohaddad/reps/c#/ClassLibraryProjects/StringLibrary/obj/Release/net8.0/StringLibrary.AssemblyInfoInputs.cache
+/home/pablitohaddad/reps/c#/ClassLibraryProjects/StringLibrary/obj/Release/net8.0/StringLibrary.AssemblyInfo.cs
+/home/pablitohaddad/reps/c#/ClassLibraryProjects/StringLibrary/obj/Release/net8.0/StringLibrary.csproj.CoreCompileInputs.cache
+/home/pablitohaddad/reps/c#/ClassLibraryProjects/StringLibrary/obj/Release/net8.0/StringLibrary.sourcelink.json
+/home/pablitohaddad/reps/c#/ClassLibraryProjects/StringLibrary/obj/Release/net8.0/StringLibrary.dll
+/home/pablitohaddad/reps/c#/ClassLibraryProjects/StringLibrary/obj/Release/net8.0/refint/StringLibrary.dll
+/home/pablitohaddad/reps/c#/ClassLibraryProjects/StringLibrary/obj/Release/net8.0/StringLibrary.pdb
+/home/pablitohaddad/reps/c#/ClassLibraryProjects/StringLibrary/obj/Release/net8.0/ref/StringLibrary.dll
