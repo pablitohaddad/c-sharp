@@ -12,3 +12,4 @@
 /home/pablitohaddad/reps/c#/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
 /home/pablitohaddad/reps/c#/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
 /home/pablitohaddad/reps/c#/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
+/home/pablitohaddad/reps/c#/HelloWorld/obj/Debug/net8.0/HelloWorld.sourcelink.json

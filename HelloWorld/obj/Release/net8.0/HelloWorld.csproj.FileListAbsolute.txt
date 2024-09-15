@@ -1,0 +1,15 @@
+/home/pablitohaddad/reps/c#/HelloWorld/bin/Release/net8.0/HelloWorld
+/home/pablitohaddad/reps/c#/HelloWorld/bin/Release/net8.0/HelloWorld.deps.json
+/home/pablitohaddad/reps/c#/HelloWorld/bin/Release/net8.0/HelloWorld.runtimeconfig.json
+/home/pablitohaddad/reps/c#/HelloWorld/bin/Release/net8.0/HelloWorld.dll
+/home/pablitohaddad/reps/c#/HelloWorld/bin/Release/net8.0/HelloWorld.pdb
+/home/pablitohaddad/reps/c#/HelloWorld/obj/Release/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/pablitohaddad/reps/c#/HelloWorld/obj/Release/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/home/pablitohaddad/reps/c#/HelloWorld/obj/Release/net8.0/HelloWorld.AssemblyInfo.cs
+/home/pablitohaddad/reps/c#/HelloWorld/obj/Release/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/pablitohaddad/reps/c#/HelloWorld/obj/Release/net8.0/HelloWorld.sourcelink.json
+/home/pablitohaddad/reps/c#/HelloWorld/obj/Release/net8.0/HelloWorld.dll
+/home/pablitohaddad/reps/c#/HelloWorld/obj/Release/net8.0/refint/HelloWorld.dll
+/home/pablitohaddad/reps/c#/HelloWorld/obj/Release/net8.0/HelloWorld.pdb
+/home/pablitohaddad/reps/c#/HelloWorld/obj/Release/net8.0/HelloWorld.genruntimeconfig.cache
+/home/pablitohaddad/reps/c#/HelloWorld/obj/Release/net8.0/ref/HelloWorld.dll

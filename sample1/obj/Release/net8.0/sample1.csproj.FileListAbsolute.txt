@@ -1,0 +1,15 @@
+/home/pablitohaddad/reps/c#/sample1/bin/Release/net8.0/sample1
+/home/pablitohaddad/reps/c#/sample1/bin/Release/net8.0/sample1.deps.json
+/home/pablitohaddad/reps/c#/sample1/bin/Release/net8.0/sample1.runtimeconfig.json
+/home/pablitohaddad/reps/c#/sample1/bin/Release/net8.0/sample1.dll
+/home/pablitohaddad/reps/c#/sample1/bin/Release/net8.0/sample1.pdb
+/home/pablitohaddad/reps/c#/sample1/obj/Release/net8.0/sample1.GeneratedMSBuildEditorConfig.editorconfig
+/home/pablitohaddad/reps/c#/sample1/obj/Release/net8.0/sample1.AssemblyInfoInputs.cache
+/home/pablitohaddad/reps/c#/sample1/obj/Release/net8.0/sample1.AssemblyInfo.cs
+/home/pablitohaddad/reps/c#/sample1/obj/Release/net8.0/sample1.csproj.CoreCompileInputs.cache
+/home/pablitohaddad/reps/c#/sample1/obj/Release/net8.0/sample1.sourcelink.json
+/home/pablitohaddad/reps/c#/sample1/obj/Release/net8.0/sample1.dll
+/home/pablitohaddad/reps/c#/sample1/obj/Release/net8.0/refint/sample1.dll
+/home/pablitohaddad/reps/c#/sample1/obj/Release/net8.0/sample1.pdb
+/home/pablitohaddad/reps/c#/sample1/obj/Release/net8.0/sample1.genruntimeconfig.cache
+/home/pablitohaddad/reps/c#/sample1/obj/Release/net8.0/ref/sample1.dll

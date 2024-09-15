@@ -1,0 +1,5 @@
+/home/pablitohaddad/reps/c#/HelloWorld/bin/Release/net8.0/publish/HelloWorld
+/home/pablitohaddad/reps/c#/HelloWorld/bin/Release/net8.0/publish/HelloWorld.dll
+/home/pablitohaddad/reps/c#/HelloWorld/bin/Release/net8.0/publish/HelloWorld.deps.json
+/home/pablitohaddad/reps/c#/HelloWorld/bin/Release/net8.0/publish/HelloWorld.runtimeconfig.json
+/home/pablitohaddad/reps/c#/HelloWorld/bin/Release/net8.0/publish/HelloWorld.pdb
